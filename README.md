@@ -10,6 +10,8 @@ Whisk3D es una herramienta de creación 2D/3D estilo retro, con el objetivo de l
 
 Nació como un clon liviano de Blender para Nokia, pero hoy es mucho más: un entorno creativo, centrado en la estética low-poly y la identidad visual de PlayStation, Dreamcast y la PC retro. Whisk3D prioriza la velocidad, la accesibilidad y la diversión por encima de la complejidad excesiva.
 
+En esta version en particular modificada por E. Costilla, se hace foco en el cambio visual para la utilización del software en android a travez de la versión web, con la posibilidad de editar mallas y acceder a funciones (en IOS por ej.) de importar escaneos 3D desde tu LIDAR (solo compatible en las versiones PRO).
+
 ## ¡Software Libre!
 
 La licencia MIT permite que cualquiera pueda usarlo libremente para crear juegos, proyectos comerciales, educativos o artísticos, e incluso hacer forks y expandir la herramienta sin restricciones.
